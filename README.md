@@ -85,6 +85,40 @@ This project demonstrates practical implementation of AWS Cloud Cost Optimizatio
 
 It provides hands-on experience with AWS cost management, EC2 and EBS optimization, budgeting, and cloud financial management.
 
+📸 Project Screenshots
+
+1. AWS Budget
+
+![AWS Budget](AWS-Budget.png)
+
+2. EC2 Instance Running
+
+![EC2 Instance](EC2-Instance-Running.png)
+
+3. Web Server Running
+
+![Web Server](Web-Server-Running.png)
+
+4.  CloudWatch CPU Utilization
+
+![CloudWatch CPU](CloudWatch-CPU.png)
+
+5. CloudWatch Network In
+
+![CloudWatch Network In](CloudWatch-NetworkIn.png)
+
+6. CloudWatch Network Out
+
+![CloudWatch Network Out](CloudWatch-Networkout.png)
+
+7. CloudWatch CPU Utilization Metrics
+
+![CloudWatch CPU Utilization Metrics](CloudWatch_CPUUtilization_Metric.png)
+
+8. CloudWatch FinOps Monitoring Dashboard
+
+![CloudWatch FinOps Dashboard](CloudWatch_FinOps_Monitoring_Dashboard.png)
+
 ## 👨‍💻 Author
 
 **Vishwajeet Gulbhele**

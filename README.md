@@ -89,7 +89,7 @@ It provides hands-on experience with AWS cost management, EC2 and EBS optimizati
 
 1. AWS Budget
 
-![AWS Budget](AWS-Budget.png)
+![AWS Budget](./AWS-Budget.png)
 
 2. EC2 Instance Running
 
@@ -113,7 +113,7 @@ It provides hands-on experience with AWS cost management, EC2 and EBS optimizati
 
 7. CloudWatch CPU Utilization Metrics
 
-![CloudWatch CPU Utilization Metrics](CloudWatch_CPUUtilization_Metric.png)
+![CloudWatch CPU Utilization Metrics](./CloudWatch_CPUUtilization_Metric.png)
 
 8. CloudWatch FinOps Monitoring Dashboard
 
